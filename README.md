@@ -9,4 +9,7 @@ https://openweathermap.org/api
 
 corelocation used
 json data
-api
+fetching weather by api
+
+
+storyboard 
